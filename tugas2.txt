@@ -1,3 +1,5 @@
+nama gilang hadiwiya_0110124036 si 04
+
 jawaban
 
 1. document root adalah folder utama tempat file dan situs web di simpan di dalam web server
