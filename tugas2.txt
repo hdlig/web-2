@@ -1,0 +1,34 @@
+jawaban
+
+1. document root adalah folder utama tempat file dan situs web di simpan di dalam web server
+  
+2. Tidak, dokumen root pada Apache web server tidak mengharuskan terletak di direktori C:\xampp\htdocs. Letak dokumen root tergantung pada konfigurasi server dan sistem operasi yang akan digunakan 
+
+3. Perintah	Fungsi
+
+git init	Membuat repository baru
+git clone	Menyalin repository dari remote ke lokal
+git remote	Menghubungkan repository lokal dengan remote
+git add 	Menambahkan file ke staging area
+git commit	Menyimpan perubahan ke repository lokal
+git push	Mengunggah commit ke repository remote
+git checkout	Berpindah branch atau mengembalikan file ke versi sebelumnya
+
+git init, clone, add, commit, push, dan checkout adalah perintah dasar Git yang digunakan untuk mengelola repository dan menggati branch repository di GitHub 
+   
+
+4. GitHub dan GitLab adalah platform pengelola repository kode yang memiliki fitur menu dan keunggulannya tersendiri 
+   GitHub populer untuk proyek komunitas,mahasiswa, dan sumber terbuka, sedangkan GitLab lebih cocok untuk pengembangan perangkat lunak
+
+5.Variable User:
+
+saya adalah  mahasiswa yang pengembang  proyek tugas pribadi. Anda dapat menyimpan path ke direktori proyek Anda di variabel user seperti PROJECT_HOME. cuma saya yang dapat mengakses variabel ini.
+
+Variable System:
+
+saaya adalah administrator sistem yang ingin memastikan semua pengguna dapat menjalankan perintah dari direktori tertentu. saya dapat menambahkan direktori tersebut ke variabel sistem PATH. Semua pengguna dapat mengakses variabel ini.
+
+
+6. Variable System dan Variable Constant sama-sama digunakan untuk menyimpan nilai yang bersifat tetap atau jarang berubah.
+Keduanya membantu meningkatkan kemudahan, konsistensi, dan menghindari duplikasi.
+
